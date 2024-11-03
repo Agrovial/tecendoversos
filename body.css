@@ -1,0 +1,15 @@
+.body {
+    font-family: "Sans-serif"; /* Use a clean sans-serif font */
+    background-color: #F0F0F0; /* Light gray background */
+    color: #000000; /* Black text for readability */
+    margin: 0;
+    padding: 20px;
+}
+
+.main {
+    background-color: #FFFFFF; /* White background for main content */
+    padding: 20px;
+    border: 1px solid #CCCCCC; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+    margin-bottom: 20px;
+}
