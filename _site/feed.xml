@@ -1,19 +1,85 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-30T11:27:34-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Tecendo Versos</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2025/03/29/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-03-29T21:47:51-03:00</published><updated>2025-03-29T21:47:51-03:00</updated><id>http://localhost:4000/jekyll/update/2025/03/29/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/29/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/tecendoversos/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/tecendoversos/" rel="alternate" type="text/html" /><updated>2025-03-30T18:57:21-03:00</updated><id>http://localhost:4000/tecendoversos/feed.xml</id><title type="html">Tecendo Versos</title><subtitle>Poemas, ensaios e artigos escritos por mim, Nathan Virgílio</subtitle><entry><title type="html">Se amanhã você for escrever um livro</title><link href="http://localhost:4000/tecendoversos/Se-amanh%C3%A3-voc%C3%AA-for-escrever-um-livrol" rel="alternate" type="text/html" title="Se amanhã você for escrever um livro" /><published>2025-03-29T18:47:51-03:00</published><updated>2025-03-29T18:47:51-03:00</updated><id>http://localhost:4000/tecendoversos/Se-amanh%C3%A3-voc%C3%AA-for-escrever-um-livrol</id><content type="html" xml:base="http://localhost:4000/tecendoversos/Se-amanh%C3%A3-voc%C3%AA-for-escrever-um-livrol"><![CDATA[<p>juntemos palavras descartadas,</p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<p>versos sem rima.</p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<p>juntemos páginas rasgadas,</p>
 
-<p>Ok agora sim</p>
+<p>parágrafos de cem linhas.</p>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p>busquemos os conceitos incertos,</p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<p>as frases sem fim,</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<p>busquemos os capítulos repletos de coisa nenhuma pra dizer.</p>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<p>veremos: um bom livro é feito de desimportâncias, apagadas, reprimidas.</p>
+
+<p>um bom livro é feito na luta insana contra o desentendimento,</p>
+
+<p>contra a falta de nexo, de talento.</p>
+
+<p>Um bom livro de ler é aquele que apunhalou a vontade de dizer um pouco mais,</p>
+
+<p>que acabou um ou dois tópicos atrás.</p>
+
+<p>E se amanhã você for escrever um livro,</p>
+
+<p>peça perdão por todas as palavras que vão morrer.</p>]]></content><author><name>Nathan Virgílio</name></author><category term="poemas" /><summary type="html"><![CDATA[juntemos palavras descartadas,]]></summary></entry><entry><title type="html">A poesia</title><link href="http://localhost:4000/tecendoversos/a-poesia" rel="alternate" type="text/html" title="A poesia" /><published>2025-03-29T18:47:51-03:00</published><updated>2025-03-29T18:47:51-03:00</updated><id>http://localhost:4000/tecendoversos/a-poesia</id><content type="html" xml:base="http://localhost:4000/tecendoversos/a-poesia"><![CDATA[<p>…a poesia é só um começo.</p>
+
+<p>a poesia é um sem-fim.</p>
+
+<p>é coisa muito solitária, a poesia.</p>
+
+<p>palavras em jardins.</p>
+
+<p>ontem li que poeta faz em verbos, delírios.</p>
+
+<p>versos são os guarda-roupas de toda loucura.</p>
+
+<p>há outros sem-fim no mundo,</p>
+
+<p>alguns atravessam o absurdo.</p>
+
+<p>a dor.</p>
+
+<p>alguns escapam ao tempo.</p>
+
+<p>a espera.</p>
+
+<p>de todos os sem-fim, o que mais temo é o medo.</p>
+
+<p>poemas são casas, arraial de poesia.</p>
+
+<p>poetas? Só conheço os passarinhos,</p>
+
+<p>pica-paus, beija-flores.</p>
+
+<p>seja o que for, seja o que sendo,</p>
+
+<p>de todas as coisas que a poesia, o poema,</p>
+
+<p>poetas e estetas, possam ser.</p>
+
+<p>prefiro que sejam um buquê de linhas tortas.</p>
+
+<p>em todas as cores, nomes de flores.</p>
+
+<p>de tons amarelos, azul, caramelo.</p>
+
+<p>com todos os verdes, formas de amores.</p>
+
+<p>poemas têm espinhos:</p>
+
+<p>doces abelhas.</p>
+
+<p>poemas só crescem pro rumo do sol.</p>
+
+<p>nascemos errado, você que me lê!</p>
+
+<p>quem sabe um dia, “se Deus permitir”,</p>
+
+<p>quem sabe um dia, a gente proclama.</p>
+
+<p>de repente, quem sabe, a gente até reclama:</p>
+
+<p>era pra nascer escrevendo com o nariz!</p>]]></content><author><name>Nathan Virgílio</name></author><category term="poemas" /><summary type="html"><![CDATA[…a poesia é só um começo.]]></summary></entry></feed>
