@@ -1,0 +1,21 @@
+<footer class="site-footer">
+    <div class="wrapper">
+        <p><strong>{{ site.title | escape }}</strong></p>
+
+        {% if site.author %}
+        <p>Escrito por {{ site.author | escape }}</p>
+        {% endif %} {% if site.email %}
+        <p>Contato: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+        {% endif %}
+
+        <p>{% include social.html %}</p>
+
+        {% if site.description %}
+        <p>{{ site.description | escape }}</p>
+        {% endif %}
+
+        <p style="margin-top: 2em; font-size: 0.9em; color: #888">
+            Feito com Jekyll e tema Minima ♥
+        </p>
+    </div>
+</footer>
