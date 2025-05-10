@@ -30,8 +30,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about.markdown
-  - ensaios.markdown
+  - about.md
+  - ensaios.md
 
 collections:
   ensaios:
