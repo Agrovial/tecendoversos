@@ -21,13 +21,10 @@
 title: Tecendo Versos
 email: nathan.virgilio@gmail.com
 description: "Poemas, ensaios e artigos escritos por mim, Nathan Virgílio."
-baseurl: "tecendoversos" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
-github_username: ""
+baseurl: "/tecendoversos"
+url: "https://nathanvirgilio.github.io"
 instagram_username: "nathan.virgilio"
 
-# Build settings
 theme: minima
 plugins:
   - jekyll-feed
